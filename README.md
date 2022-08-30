@@ -12,6 +12,7 @@ The application should accomplish 3 things
 
 Your program should operate similarly to the program shown in the .gif below
 The .gif below show three iterations of running the program
+
 ![Alt text](https://instructorc.github.io/site/slides/java/images/intro/program_two.gif "Program 2 Execution Example")
 
 
