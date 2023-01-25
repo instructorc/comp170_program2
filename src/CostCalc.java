@@ -24,7 +24,7 @@
                     Repository contains a minimum of three commits.
 	
     [REPLACE MY INFORMATION WITH YOURS]
-    Course: COMP 170, Fall 1 2022
+    Course: COMP 170, Spring 1 2023
     System: Visual Studio Code, Windows 10
     Author: C. Fulton
 */
