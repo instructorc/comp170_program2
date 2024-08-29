@@ -36,7 +36,7 @@ Program is submitted by the due date listed and pushed to assigned GitHub Reposi
 ## Submission Instructions for Program 2
 For Program 2, you will need to submit two items:
 
-1. **The `.java` file containing your code.**
+1. **The GitHub URL to your Repository.**
    - Your code should be reflected in the assigned GitHub repository provided to you by the instructor.  In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
 
 2. **A recording of you explaining each line of your code.**
